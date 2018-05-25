@@ -4,5 +4,5 @@ RUN /usr/local/bin/sh/prepare.sh && \
     rm /usr/local/bin/sh/prepare.sh
 
 VOLUME ["/efd"]
-CMD [""]
+CMD ["ehforwarderbot"]
 
