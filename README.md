@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-`docker run -v [config-dir]:efd dustise/efforwarderbot:[tag]`
+`docker run -v [config-dir]:efd dustise/ehforwarderbot:[tag]`
 
 ### 本地配置目录布局
 
